@@ -1,0 +1,336 @@
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    background-image:url(black3.jpg);
+    color:white;
+  }
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  .header{
+    background-image:url(black6.jpg);
+    background-color: white;
+    color : white;
+    height: 100px;
+    text-align: center;
+    margin-top: -17px;
+    text-align:vertical;
+    /* line-height: 1em; */
+    text-align: left;
+  }
+
+  .text{
+    margin-left: 75px;
+    color : black;
+    margin-top: -22px;
+    font-size: 1.5em;
+  }
+
+  .checkbox{
+    margin-left: 25px;
+    color : red;
+    /* margin-top: -24px;; */
+  }
+
+  .date{
+    margin-left: 600px;
+     margin-top: 50px;
+    /* color:blue; */
+    line-height: 3em;
+    /* border: 2px solid white; */
+    /* float: right; */
+    height: 50px;
+    width : 200px;
+    text-align: center;
+
+  }
+
+  .props{
+    margin-left: 950px;
+    margin-top: -550px;
+    background-color: black;
+    height: 500px;
+    width: 300px;
+    text-align: center;
+    line-height : 1em;
+  }
+
+  .proptext{
+    /* margin-top: 10px; */
+    color : blueviolet;
+    line-height: 1em;
+    text-align: center;
+    text-overflow: clip;
+  }
+
+  .logo{
+    float : right;
+    margin-top: -110px;
+    margin-left: 500px;
+  }
+
+  .headertext{
+    /* margin-top: 40px; */
+    text-align: left;
+    color :lightgrey;
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1em;
+    /* border-top: 1px solid blueviolet; */
+
+  }
+
+ .header h1{
+    color : lightgrey;
+    /* margin-top: 30px; */
+    /* border-top: 1px solid blueviolet; */
+    line-height: 1.5em;
+
+  }
+
+  .notes{
+    color : black;
+    /* text-align: left; */
+    margin: 60px 50px;
+    /* text-align:vertical; */
+    line-height: 3em;
+    border : 2px solid white;
+    height: 550px;
+    width : 900px;
+    box-shadow: 5px 5px whitesmoke, 10px 10px lightgray;
+    background-color: white;
+  }
+
+  .note1{
+    text-align:center;
+    border-bottom: 2px solid lightgray;
+  }
+
+  .note2{
+    margin-left: 120px;
+    /* margin-top: -55px; */
+  }
+
+  .note3{
+    background-color: green;
+    width : 600px;
+    /* border: 2px solid black; */
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note4{
+    margin-left: 780px;
+    margin-top: -55px;
+  }
+
+  .note5{
+    margin-left: 135px;
+    margin-top: -25px;
+  }
+
+  .note6{
+    background-color: blueviolet;
+    width : 500px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note7{
+    margin-left: 680px;
+    margin-top: -55px;
+  }
+
+  
+  .note8{
+    margin-left: 105px;
+    margin-top: -25px;
+  }
+
+  .note9{
+    background-color: red;
+    width : 485px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note10{
+    margin-left: 665px;
+    margin-top: -55px;
+  }
+
+  .note11{
+    margin-left: 120px;
+    margin-top: -25px;
+  }
+
+  .note12{
+    background-color: yellowgreen;
+    width : 480px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note13{
+    margin-left: 660px;
+    margin-top: -55px;
+  }
+
+  .note14{
+    margin-left: 72px;
+    margin-top: -25px;
+  }
+
+  .note15{
+    background-color: grey;
+    width : 470px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note16{
+    margin-left: 650px;
+    margin-top: -55px;
+  }
+
+  .note17{
+    margin-left: 120px;
+    margin-top: -25px;
+  }
+
+  .note18{
+    background-color: blue;
+    width : 430px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note19{
+    margin-left: 610px;
+    margin-top: -55px;
+  }
+
+  .note20{
+    margin-left: 125px;
+    margin-top: -25px;
+  }
+
+  .note21{
+    background-color: hotpink;
+    width : 360px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note22{
+    margin-left: 540px;
+    margin-top: -55px;
+  }
+
+  .note23{
+    margin-left: 142px;
+    margin-top: -25px;
+  }
+
+  .note24{
+    background-color: goldenrod;
+    width : 300px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note25{
+    margin-left: 480px;
+    margin-top: -55px;
+  }
+
+  .note26{
+    margin-left: 125px;
+    margin-top: -25px;
+  }
+
+  .note27{
+    background-color:sienna;
+    width : 230px;
+    height : 30px;
+    margin-left: 175px;
+    margin-top: -55px;
+  }
+
+  .note28{
+    margin-left: 410px;
+    margin-top: -55px;
+  }
+
+  .lists{
+    margin-left: 1100px;
+    margin-top: -550px;
+    color : white;
+    background-color: black;
+    width : 250px;
+    border: 1.5px solid white;
+    text-align: justify;
+    text-decoration-style : underline;
+    box-shadow: 4px 4px lightgreen, 7px 7px black;
+  }
+
+  .list{
+    color : white;
+    text-decoration: none;
+    color : blue;
+    text-align: left;
+    line-height: 2em;
+    /* text-align: center; */
+    /* margin-left: 20px; */
+    /* text-decoration:underline;
+    text-decoration-style:dotted;
+    text-decoration-line: overline; */
+   }
+
+  .lists ul{
+    list-style-type: none;
+  
+  }
+
+  .listlanguage{
+    color : white;
+
+  }
+
+  .list:hover{
+    color:red;
+  }
+
+  .footer{
+    background-color: white;
+    color : black;
+    height: 125px;
+    text-align: center;
+    text-align: ;
+    margin-top: 200px;
+    /* border-top: 2px solid black; */
+    /* text-align:vertical; */
+    /* line-height: 1.5em; */
+    /* margin-bottom: -50px; */
+  }
+
+  .name{
+    margin-top: 00px;
+    background-color: gray;
+    height :12px;
+    color:blue;
+    content : #169;
+  }
